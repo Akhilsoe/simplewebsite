@@ -1,4 +1,8 @@
-* {
-    margin: 0;
-    padding: 0;
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-common {
+    font-family: 'Times New Roman', Times, serif;
 }
